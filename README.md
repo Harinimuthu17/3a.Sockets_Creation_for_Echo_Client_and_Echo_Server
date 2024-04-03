@@ -43,7 +43,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
                 break
             conn.sendall(data)
 ```
-## OUPUT
+## OUTPUT
 *CLIENT:*
 
 ![Screenshot 2024-04-03 103050](https://github.com/Bakkiyalakshmiethiraj/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/144870983/2d3b3338-8411-4d25-8a72-74bf485343c1)
