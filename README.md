@@ -44,10 +44,12 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             conn.sendall(data)
 ```
 ## OUPUT
-CLIENT:
+*CLIENT:*
+
 ![Screenshot 2024-04-03 103050](https://github.com/Bakkiyalakshmiethiraj/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/144870983/2d3b3338-8411-4d25-8a72-74bf485343c1)
 
-SERVER:
+*SERVER:*
+
 ![Screenshot 2024-04-03 102957](https://github.com/Bakkiyalakshmiethiraj/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/144870983/b8e4b587-7127-4f21-a85f-9b8ac429099b)
 
 ## RESULT
